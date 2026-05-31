@@ -1,0 +1,11 @@
+{
+  "raw_rows": 25000,
+  "empty_source_or_target_rows": 0,
+  "semantic_score_filter_removed": 0,
+  "risky_phrase_in_source_rows": 0,
+  "risky_phrase_in_target_rows": 4,
+  "exact_duplicate_pair_removed": 0,
+  "suspicious_length_ratio_rows": 103,
+  "source_target_near_copy_removed": 111,
+  "final_clean_rows": 24885
+}

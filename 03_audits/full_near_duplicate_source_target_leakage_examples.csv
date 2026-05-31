@@ -1,0 +1,22 @@
+base_split,other_split,column,similarity,base_original_id,other_original_id,base_text,other_text
+train,val,boomer,0.9896907216494846,6354,6370,Seek help if you're struggling with the material.,Seek help if you are struggling with the material.
+train,val,boomer,0.9649122807017544,9684,4195,I wish you’d show more gratitude for what we do for you.,I wish you would show more gratitude for what we do for you.
+train,val,boomer,0.9777777777777777,8439,8466,You're a quick learner.,You are a quick learner.
+train,test,boomer,0.967032967032967,24864,15575,You should not waste your time on distractions.,You shouldn’t waste your time on distractions.
+train,test,boomer,0.9885057471264368,13851,13970,Don’t forget to hydrate during your workouts!,Don't forget to hydrate during your workout.
+train,test,boomer,0.9896907216494846,13653,4279,I hope you realize how much we sacrificed for you.,I hope you realize how much we sacrifice for you.
+train,test,boomer,0.9622641509433962,16162,23205,Have you thought about how this affects your future?,Have you thought about how this job affects your future?
+train,val,gen_alpha,1.0,19578,4235,Make sure you put on a jacket if it's cold out.,Make sure you put on a jacket if it's cold out.
+train,val,gen_alpha,1.0,18987,22098,You gotta get better at managing your time.,You gotta get better at managing your time.
+train,val,gen_alpha,1.0,11536,21290,You gotta watch how you're spending your money.,You gotta watch how you're spending your money.
+train,val,gen_alpha,1.0,8439,8466,You pick things up super fast.,You pick things up super fast.
+train,val,gen_alpha,0.9647058823529412,13606,13689,"Your fam does a lot for you, remember that.","Your family does a lot for you, remember that."
+train,test,gen_alpha,1.0,9391,9365,Being involved in politics is a must.,Being involved in politics is a must.
+train,test,gen_alpha,0.9690721649484536,19786,14093,Don't forget to take breaks while you're studying.,Don't forget to take breaks when you're studying.
+train,test,gen_alpha,1.0,22060,3037,"Don't smoke, it's bad for you.","Don't smoke, it's bad for you."
+train,test,gen_alpha,1.0,15990,10679,"Tell someone where you're going, duh.","Tell someone where you're going, duh."
+train,test,gen_alpha,1.0,20360,17948,Don't jump into a relationship too fast.,Don't jump into a relationship too fast.
+train,test,gen_alpha,0.9607843137254902,16939,16928,"You should totally hype up your wins, big or small.","You should totally hype up all your wins, big or small."
+train,test,gen_alpha,1.0,11869,19729,"Don't leave the fridge open forever, it's not that deep.","Don't leave the fridge open forever, it's not that deep."
+train,test,gen_alpha,1.0,10615,10777,Make sure your outfit fits the place you're going to.,Make sure your outfit fits the place you're going to.
+train,test,gen_alpha,1.0,9815,3810,You should really appreciate what your parents did for you.,You should really appreciate what your parents did for you.

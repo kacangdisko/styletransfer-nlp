@@ -1,0 +1,12 @@
+{
+  "exact_train_val_source_overlap": 0,
+  "exact_train_test_source_overlap": 0,
+  "exact_val_test_source_overlap": 0,
+  "exact_train_val_target_overlap": 4,
+  "exact_train_test_target_overlap": 7,
+  "exact_val_test_target_overlap": 0,
+  "full_exact_normalized_overlap_rows": 11,
+  "sampled_near_duplicate_examples_count": 0,
+  "full_near_duplicate_examples_count": 21,
+  "full_near_duplicate_threshold": 0.96
+}

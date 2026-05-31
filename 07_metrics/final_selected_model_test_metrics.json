@@ -1,0 +1,15 @@
+{
+  "bleu": 19.196478457219634,
+  "chrf": 41.66907952231578,
+  "meteor": 0.4611994745498016,
+  "rouge1": 0.4694395598379522,
+  "rouge2": 0.28025033101751406,
+  "rougeL": 0.4463466439118189,
+  "token_f1": 0.46952495780941017,
+  "exact_match": 0.009642426677380474,
+  "sequence_similarity": 0.5857214055152944,
+  "composite_score": 0.39714533121327694,
+  "selected_model": "facebook/bart-base",
+  "selected_model_dir": "/content/drive/MyDrive/NLP_Final_25K_Experiments/enhanced25k_20260523_100201/06_best_models/best_facebook_bart-base",
+  "test_rows_evaluated": 2489
+}

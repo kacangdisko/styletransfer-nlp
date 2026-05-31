@@ -1,0 +1,12 @@
+column,left_split,right_split,original_id_train,boomer_train,normalized_text,original_id_val,boomer_val,original_id_test,boomer_test,gen_alpha_train,gen_alpha_val,gen_alpha_test
+gen_alpha,train,val,19578.0,,make sure you put on a jacket if it s cold out,4235.0,,,,Make sure you put on a jacket if it's cold out.,Make sure you put on a jacket if it's cold out.,
+gen_alpha,train,val,11536.0,,you gotta watch how you re spending your money,21290.0,,,,You gotta watch how you're spending your money.,You gotta watch how you're spending your money.,
+gen_alpha,train,val,8439.0,,you pick things up super fast,8466.0,,,,You pick things up super fast.,You pick things up super fast.,
+gen_alpha,train,val,18987.0,,you gotta get better at managing your time,22098.0,,,,You gotta get better at managing your time.,You gotta get better at managing your time.,
+gen_alpha,train,test,10615.0,,make sure your outfit fits the place you re going to,,,10777.0,,Make sure your outfit fits the place you're going to.,,Make sure your outfit fits the place you're going to.
+gen_alpha,train,test,20360.0,,don t jump into a relationship too fast,,,17948.0,,Don't jump into a relationship too fast.,,Don't jump into a relationship too fast.
+gen_alpha,train,test,9815.0,,you should really appreciate what your parents did for you,,,3810.0,,You should really appreciate what your parents did for you.,,You should really appreciate what your parents did for you.
+gen_alpha,train,test,22060.0,,don t smoke it s bad for you,,,3037.0,,"Don't smoke, it's bad for you.",,"Don't smoke, it's bad for you."
+gen_alpha,train,test,15990.0,,tell someone where you re going duh,,,10679.0,,"Tell someone where you're going, duh.",,"Tell someone where you're going, duh."
+gen_alpha,train,test,9391.0,,being involved in politics is a must,,,9365.0,,Being involved in politics is a must.,,Being involved in politics is a must.
+gen_alpha,train,test,11869.0,,don t leave the fridge open forever it s not that deep,,,19729.0,,"Don't leave the fridge open forever, it's not that deep.",,"Don't leave the fridge open forever, it's not that deep."

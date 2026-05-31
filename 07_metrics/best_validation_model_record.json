@@ -1,0 +1,20 @@
+{
+  "model_name": "facebook/bart-base",
+  "best_model_dir": "/content/drive/MyDrive/NLP_Final_25K_Experiments/enhanced25k_20260523_100201/06_best_models/best_facebook_bart-base",
+  "train_batch_size": 32,
+  "eval_batch_size": 32,
+  "grad_accum": 2,
+  "train_runtime": 200.6904,
+  "train_samples_per_second": 1487.964,
+  "eval_loss": 1.291070580482483,
+  "bleu": 19.445332701442286,
+  "chrf": 42.07467790294555,
+  "meteor": 0.4708341180326518,
+  "rouge1": 0.4783657990903731,
+  "rouge2": 0.2838855551015672,
+  "rougeL": 0.45514029151177293,
+  "token_f1": 0.478136574953751,
+  "exact_match": 0.011254019292604502,
+  "sequence_similarity": 0.5930288719436047,
+  "composite_score": 0.4038622181084109
+}
