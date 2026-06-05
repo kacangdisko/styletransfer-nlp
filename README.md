@@ -85,6 +85,18 @@ contradiction, excuse, comeback, or emotional reaction. | source: {boomer}
 
 The dataset generation prompt sent to Gemini 2.5 Flash Lite is similar; see the generator notebook under `Dataset_Generation_Final/`.
 
+## Model comparison
+
+We evaluate five encoder-decoder models under the same data split and training setup.
+
+| Model | Family | Notes |
+|---|---|---|
+| `t5-small` | T5 | Small baseline |
+| `google/flan-t5-small` | FLAN-T5 | Instruction-tuned small baseline |
+| `t5-base` | T5 | Base-scale T5 model |
+| `google/flan-t5-base` | FLAN-T5 | Instruction-tuned base model |
+| `facebook/bart-base` | BART | Best-performing model in this benchmark |
+
 ## Headline numbers
 
 **Best model:** `facebook/bart-base` (139M parameters).
@@ -106,4 +118,4 @@ The dataset generation prompt sent to Gemini 2.5 Flash Lite is similar; see the 
 | Fluency | 3.17 | 0.80 |
 | Overall Usefulness | 3.09 | 0.74 |
 
-Dominant weakness flagged by 9 of 10 raters: muted style intensity (outputs preserve meaning but read closer to neutral English than to native Gen Alpha).
+Dominant weakness flagged by 9 of 10 raters: muted style intensity (outputs preserve meaning but read closer to more modern neutral English than to native Gen Alpha).
