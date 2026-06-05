@@ -17,7 +17,10 @@ The project includes three main parts: synthetic dataset construction, model ben
 ## Demo
 
 Try the deployed model on Hugging Face Spaces:
-https://huggingface.co/spaces/randyy18/boomer-genalpha-style-transfer (The first load after inactivity for 48 hours may take some times to load, please be patient!)
+
+https://huggingface.co/spaces/randyy18/boomer-genalpha-style-transfer 
+
+(The first load after inactivity for 48 hours may take some times to load, please be patient!)
 
 ## What's in this repository
 
