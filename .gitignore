@@ -5,3 +5,4 @@
 .Trashes
 $RECYCLE.BIN/
 __MACOSX/
+.env
