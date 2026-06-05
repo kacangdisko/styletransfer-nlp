@@ -1,0 +1,106 @@
+sample_id,topic,sentence_type,source_boomer,model_output_gen_alpha,question_text_for_form,dataset_reference_do_not_show_in_form,model_name,boomer_style,gen_alpha_style,semantic_preservation_score,prediction_reference_similarity,prediction_source_similarity,style_hits
+S01,family and home,complaints or frustrations,You really need to get your priorities straight.,You seriously need to get your priorities straight.,"S01
+
+Source / Boomer-style:
+""You really need to get your priorities straight.""
+
+Model Output / Gen Alpha-style:
+""You seriously need to get your priorities straight.""",You seriously need to get your priorities straight.,facebook/bart-base,unsolicited advice-giver,ironic hype,5,1.0,0.9090909090909092,1
+S02,fashion and style,complaints or frustrations,You should really wear clothes that fit better.,You should totally wear clothes that actually fit better.,"S02
+
+Source / Boomer-style:
+""You should really wear clothes that fit better.""
+
+Model Output / Gen Alpha-style:
+""You should totally wear clothes that actually fit better.""",You should try to wear clothes that actually fit.,facebook/bart-base,using outdated idioms,delulu and delusional optimism,5,0.8490566037735849,0.8653846153846154,2
+S03,food and cooking,compliments or praise,The way you seasoned that chicken was impressive.,The way you seasoned that chicken was actually fire.,"S03
+
+Source / Boomer-style:
+""The way you seasoned that chicken was impressive.""
+
+Model Output / Gen Alpha-style:
+""The way you seasoned that chicken was actually fire.""",The way you seasoned that chicken was actually pretty epic.,facebook/bart-base,worried and concerned parent,chronically online,5,0.9009009009009008,0.8316831683168316,2
+S04,gaming and hobbies,observations or statements,You are really good at that; you should take it seriously.,"You're really good at that, you should actually take it seriously.","S04
+
+Source / Boomer-style:
+""You are really good at that; you should take it seriously.""
+
+Model Output / Gen Alpha-style:
+""You're really good at that, you should actually take it seriously.""","You're actually skilled at that, should take it seriously.",facebook/bart-base,using outdated idioms,ironic hype,5,0.7741935483870968,0.8870967741935484,3
+S05,health and medicine,exclamations or reactions,You have to take your health seriously!,You gotta take your health seriously!,"S05
+
+Source / Boomer-style:
+""You have to take your health seriously!""
+
+Model Output / Gen Alpha-style:
+""You gotta take your health seriously!""","Gotta take your health seriously, no cap.",facebook/bart-base,worried and concerned parent,low effort minimal energy,5,0.8205128205128205,0.868421052631579,2
+S06,mental health and feelings,complaints or frustrations,You’re overthinking it; just relax and breathe.,"You're overthinking things, just chill and breathe.","S06
+
+Source / Boomer-style:
+""You’re overthinking it; just relax and breathe.""
+
+Model Output / Gen Alpha-style:
+""You're overthinking things, just chill and breathe.""","You're overthinking things, just chill out and take a breath.",facebook/bart-base,using outdated idioms,main character vibes,5,0.8928571428571429,0.8163265306122449,1
+S07,money and work,compliments or praise,Your ability to adapt is remarkable.,Your ability to switch things up is actually wild.,"S07
+
+Source / Boomer-style:
+""Your ability to adapt is remarkable.""
+
+Model Output / Gen Alpha-style:
+""Your ability to switch things up is actually wild.""",Your ability to switch things up is actually kinda wild.,facebook/bart-base,overly polite to the point of awkward,villain arc mentality,5,0.9433962264150944,0.5813953488372093,2
+S08,politics and news,observations or statements,You should take the time to learn about economic policies.,You should actually learn about how the economy works.,"S08
+
+Source / Boomer-style:
+""You should take the time to learn about economic policies.""
+
+Model Output / Gen Alpha-style:
+""You should actually learn about how the economy works.""",You should actually look into how the economy works.,facebook/bart-base,unsolicited advice-giver,chronically online,5,0.8679245283018868,0.6428571428571429,2
+S09,pop culture and entertainment,exclamations or reactions,You have to pay your dues before you can shine.,You gotta put in the work before you can level up.,"S09
+
+Source / Boomer-style:
+""You have to pay your dues before you can shine.""
+
+Model Output / Gen Alpha-style:
+""You gotta put in the work before you can level up.""",You gotta put in the work before you can really glow up.,facebook/bart-base,full lecture mode,delulu and delusional optimism,5,0.8867924528301887,0.5773195876288659,2
+S10,relationships and dating,observations or statements,You shouldn't date your friend's ex.,Dating your friend's ex is not the move.,"S10
+
+Source / Boomer-style:
+""You shouldn't date your friend's ex.""
+
+Model Output / Gen Alpha-style:
+""Dating your friend's ex is not the move.""",Dating your friend's ex is a big no-go.,facebook/bart-base,completely out of touch with youth culture,extremely overdramatic,5,0.7848101265822784,0.5526315789473685,2
+S11,school and studying,complaints or frustrations,You need to find a quiet place to study if you want to focus.,You gotta find a quiet spot to study if you wanna actually focus.,"S11
+
+Source / Boomer-style:
+""You need to find a quiet place to study if you want to focus.""
+
+Model Output / Gen Alpha-style:
+""You gotta find a quiet spot to study if you wanna actually focus.""",Find a quiet spot to study if you need to actually focus.,facebook/bart-base,unsolicited advice-giver,unhinged chaos energy,5,0.8360655737704918,0.7777777777777778,3
+S12,sports and fitness,observations or statements,It's essential to work on your stamina for sports.,"You gotta build up your stamina for sports, no cap.","S12
+
+Source / Boomer-style:
+""It's essential to work on your stamina for sports.""
+
+Model Output / Gen Alpha-style:
+""You gotta build up your stamina for sports, no cap.""","You gotta build up your stamina for sports, it's a must.",facebook/bart-base,completely out of touch with youth culture,villain arc mentality,5,0.8785046728971962,0.5742574257425742,2
+S13,technology and social media,questions,Isn't it alarming that people prioritize likes over real friendships?,Isn't it kinda wild that people prioritize likes over actual friends?,"S13
+
+Source / Boomer-style:
+""Isn't it alarming that people prioritize likes over real friendships?""
+
+Model Output / Gen Alpha-style:
+""Isn't it kinda wild that people prioritize likes over actual friends?""",Is it not wild that people care more about likes than actual friends?,facebook/bart-base,catastrophizing and dramatic,deadpan sarcastic,5,0.7536231884057971,0.8260869565217391,3
+S14,travel and going out,exclamations or reactions,You really need to learn some local phrases.,You seriously need to learn some local words.,"S14
+
+Source / Boomer-style:
+""You really need to learn some local phrases.""
+
+Model Output / Gen Alpha-style:
+""You seriously need to learn some local words.""",You seriously need to learn some local slang.,facebook/bart-base,catastrophizing and dramatic,unhinged chaos energy,5,0.9111111111111112,0.8089887640449438,2
+S15,weather and environment,complaints or frustrations,The news about deforestation is quite alarming.,The news about deforestation is kinda wild.,"S15
+
+Source / Boomer-style:
+""The news about deforestation is quite alarming.""
+
+Model Output / Gen Alpha-style:
+""The news about deforestation is kinda wild.""",The deforestation news is kinda sus.,facebook/bart-base,passive-aggressive,low effort minimal energy,5,0.7088607594936709,0.7777777777777778,3
