@@ -14,6 +14,11 @@ The system takes a source sentence, its topic, sentence type, source style, and 
 
 The project includes three main parts: synthetic dataset construction, model benchmarking, and human evaluation. We first build and clean a 24,885-row parallel corpus. We then fine-tune five encoder-decoder models from the T5, FLAN-T5, and BART families. Finally, we compare automatic metrics with human ratings to understand whether the generated outputs are fluent, meaning-preserving, and stylistically convincing.
 
+## Demo
+
+Try the deployed model on Hugging Face Spaces:
+https://huggingface.co/spaces/randyy18/boomer-genalpha-style-transfer (The first load after inactivity for 48 hours may take some times to load, please be patient!)
+
 ## What's in this repository
 
 ```
